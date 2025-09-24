@@ -8,9 +8,10 @@ inflammation during severe SARS-CoV-2 infection.
 
 The repository contains:
 
-- cellpose_segementation_vpt - code and data relating to cell segmentation using
+- cellpose_segmentation_vpt - code and data relating to cell segmentation using
   a custom Cellpose 2.0 model.
 - r-seurat-analysis - R scripts for downstream analysis of segmented MERSCOPE 
   data.
+- covid_infect_distance_calculation - Python code associated with calculating distances between cells and infected areas using output from Qupath
 
 Please see the README files contained in each of the above directories.
